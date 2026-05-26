@@ -10,8 +10,8 @@ Como Analista de Datos Junior, se te solicita realizar un análisis exploratorio
 
 Desarrollar un análisis de desempeño comercial que permita identificar:
 
-+Las categorías y productos con mayor impacto en ingresos,
-+patrones de compra de los clientes,
-+tendencias temporales en ventas,
-mercados/regiones con mejor y peor desempeño,
-+y oportunidades potenciales para mejorar ingresos y retención de clientes.
+- Las categorías y productos con mayor impacto en ingresos,
+- patrones de compra de los clientes,
+- tendencias temporales en ventas,
+- mercados/regiones con mejor y peor desempeño,
+- y oportunidades potenciales para mejorar ingresos y retención de clientes.
