@@ -15,3 +15,21 @@ Desarrollar un análisis de desempeño comercial que permita identificar:
 - tendencias temporales en ventas,
 - mercados/regiones con mejor y peor desempeño,
 - y oportunidades potenciales para mejorar ingresos y retención de clientes.
+
+### Descripción del dataset
+El proyecto anterior consistió en limpiar un dataset con más de 2000 datos en la tabla principal. Contamos con tres tablas: 
+- "orders_cleaned" es la tabla principal, tiene información acerca de los pedidos, los clientes y las transacciones
+- "products_cleaned" tiene información acerca de los productos, indicado su categoria y precio
+- "customers_cleaned" tiene información de los clientes, indicando el país de origen y la fecha en la que comenzaron a ser clientes
+
+### Análisis de KPIs
+En el documento "Análisis de KPIs.docx" enlistamos preguntas diseñadas para entender los patrones y tendencias de nuestro dataset.
+
+### Dashboard
+En el documento "Dashboard ejecutivo.xlsx" mostramos las Querys ocupadas para responder a las preguntas planteadas en "Análisis de KPIs.docx", las tablas de resultados obtenidas con dichas Querys y un dashboard 
+que presenta la información de manera dinámica.
+
+### Insights
+
+
+### Recomendaciones
