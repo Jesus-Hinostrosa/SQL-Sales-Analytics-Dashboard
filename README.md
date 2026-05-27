@@ -22,6 +22,13 @@ El proyecto anterior consistió en limpiar un dataset con más de 2000 datos en 
 - "products_cleaned" tiene información acerca de los productos, indicado su categoria y precio
 - "customers_cleaned" tiene información de los clientes, indicando el país de origen y la fecha en la que comenzaron a ser clientes
 
+### Herramientas técnicas
+- SQL
+- Excel
+- Tablas dinámicas
+- Gráficas dinámicas
+- Herramientas de limpieza de datos
+
 ### Análisis de KPIs
 En el documento "Análisis de KPIs.docx" enlistamos preguntas diseñadas para entender los patrones y tendencias de nuestro dataset.
 
@@ -50,3 +57,11 @@ Basandonos en los insights hacemos las siguientes recomendaciones:
 -	Crear más publicidad para las demás categorías de productos y proporcionar datos de más fechas. Conociendo las tendencias a lo largo de distintos años podríamos determinar que productos se venden más en distintas temporadas del año, creando campañas publicitarias que se encarguen de maximizar las ganancias en cada periodo.
 -	Mejorar la calidad geográfica de los datos para obtener un análisis más certero. Este análisis sugiere que México es el país que mejor se desempeña pero que en los demás países fluctúa demasiado el ingreso.
 
+### Habilidades mostradas
+- SQL JOINs
+- Análisis KPI
+- Segmentación de clientes
+- Limpieza de datos 
+- Visualizacion de datos 
+- Business Storytelling
+- Análisis de bases relacionales
