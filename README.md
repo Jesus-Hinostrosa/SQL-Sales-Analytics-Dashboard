@@ -30,6 +30,9 @@ En el documento "Dashboard ejecutivo.xlsx" mostramos las Querys ocupadas para re
 que presenta la información de manera dinámica.
 
 ### Insights
+En el archivo "Dashboard ejecutivo.xlsx" mostramos el siguiente dashboard 
+<img width="1442" height="661" alt="image" src="https://github.com/user-attachments/assets/2f3367ce-32bc-4a7b-ac16-719fc96703a7" />
+
 
 
 ### Recomendaciones
